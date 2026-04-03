@@ -1,15 +1,15 @@
-
-{                                                                                
-  "name": "be.elab.digitalscoreandclock",                              
-  "displayName": "Digital Score And Clock",                        
-  "version": "0.0.1",                         
-  "unity": "2018.1",                             
-  "unityRelease": "",                             
-  "description": "Some digit to make some score and click element in your game.",                         
-  "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
-  "relatedPackages":{},     
- "samples": [
+{
+  "name": "be.elab.digitalscoreandclock",
+  "displayName": "\ud83e\uddf0 Digital Score And Clock",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Some digit to make some score and click element in your game.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
+  "samples": [
     {
       "displayName": "Demo Scene",
       "description": "A sample scene that demonstrates the features of this package.",
@@ -20,11 +20,12 @@
     "name": "Eloi Stree",
     "mail": "",
     "url": "https://github.com/EloiStree/"
-  },  
-  "repository":{
-"type":"Git",
-"url":"https://github.com/EloiStree/2023_02_17_DigitalScoreAndClock.git",
-"footprint":"",
-"revision":""},     
-  "category": "Script"                   
-} 
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2023_02_17_DigitalScoreAndClock.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
