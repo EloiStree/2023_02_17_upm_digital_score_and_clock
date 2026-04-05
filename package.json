@@ -1,6 +1,6 @@
 {
   "name": "be.elab.digitalscoreandclock",
-  "displayName": "\ud83e\uddf0 Digital Score And Clock",
+  "displayName": "\ud83e\uddf0: Digital Score And Clock",
   "version": "0.0.1",
   "unity": "2018.1",
   "description": "Some digit to make some score and click element in your game.",
